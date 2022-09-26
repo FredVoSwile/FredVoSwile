@@ -2,7 +2,7 @@
 - 👀 I’m interested in Salesforce
 - 🌱 I’m currently learning DevOps Salesforce
 - 💞️ I’m looking to collaborate on Salesforce project
-- 📫 How to reach me frederic.vo@swile.co
+- 📫 How to reach me frederic.vo@swile.co or @Fred on slack
 
 <!---
 FredVoSwile/FredVoSwile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
